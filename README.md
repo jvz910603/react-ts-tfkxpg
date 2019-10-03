@@ -1,3 +1,5 @@
-# react-ts-tfkxpg
+# REACT FIREBASE ADMIN
+## V5.2.0
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-tfkxpg)
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+For project instalation videos and docuemtnation go [here](http://fireadmin.mobidonia.com/).
